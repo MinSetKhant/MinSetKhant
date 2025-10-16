@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MinSetKhant
+#👋 Hi, I’m @MinSetKhant
 - 👀 I’m deeply passionate about Data Analysis, constantly exploring ways to extract insights and drive decisions from raw data.
 - 🌱 Currently, I'm immersing myself in the realms of Power BI, Python, SQL, and various Data Analysis techniques, honing my skills to uncover meaningful patterns and trends.
 - 💞️ I’m eagerly seeking opportunities to collaborate on projects that leverage data to innovate and solve real-world challenges. Whether it’s visualizing data in Power BI or crunching numbers with Python, count me in!
